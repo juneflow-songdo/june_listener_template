@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/View-Hub-007bff?style=for-the-badge&logo=flutter)](https://view.juneflow.org/)
 
 # june_listener_template
-description here
+Listen Template in JuneFlow Architecture.
 
 ##  Installation
 1. If the juneflow project doesn't exist, please create it by following [this guide](https://doc.juneflow.org/).
@@ -14,4 +14,10 @@ description here
  ```
 
 ## Usage
-Usage here
+1. copy and paste file from `lib/app/_/_/interaction/listener/_new` 
+2. rename `_new` to your listener name
+3. replace `New` in the file to your listener name
+4. open terminal in the juneflow project root directory, enter the following command.
+ ```bash
+ june build
+ ```
