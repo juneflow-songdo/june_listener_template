@@ -1,7 +1,7 @@
 name: june_listener_template
 description: "Listen Template in JuneFlow Architecture."
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/juneflow
+repository: https://github.com/juneflow-songdo/june_listener_template
 
 version: 1.0.0
 
